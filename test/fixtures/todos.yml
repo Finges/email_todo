@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  done: false
+  description: MyText
+  due: 2013-07-16
+
+two:
+  done: false
+  description: MyText
+  due: 2013-07-16
