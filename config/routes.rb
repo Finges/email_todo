@@ -1,5 +1,6 @@
 EmailTodo::Application.routes.draw do
   resources :todos
+  resources :incomingmails
   root :to => 'todos#index'
 
   # The priority is based upon order of creation:
